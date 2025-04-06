@@ -6,6 +6,8 @@ From the diagram we can understand that the scan chain is comprised of 4 Scan D-
 
 More detailed info, waveforms and testbenches are under the scan-chain-report.pdf
 
+Assignment material provided as part of the Circuit Reliability and Testing Course (Prof. Vasileios Tenentes)
+
 # High level block
 
 <img src="./Resources/block.PNG">
